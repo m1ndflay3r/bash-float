@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 source ./lib/libfloat
 
-ORIG1="$2"
-if [ -z "$ORIG1" ]; then
-  ORIG1="123.456"
-fi
 ORIG2="$3"
 if [ -z "$ORIG2" ]; then
   ORIG2="789.012"
+fi
+ORIG1="$2"
+if [ -z "$ORIG1" ]; then
+  ORIG1="123.456"
 fi
 OP="$1"
 if [ -z "$OP" ]; then
