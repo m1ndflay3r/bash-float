@@ -55,11 +55,19 @@ As you've probably gathered, all return values for add, sub, mul, and div are st
 You can test this library using the proof-of-concept application **floater** found within the root of the cloned repository, which is basically just a wrapper that executes a function in the library and spits out the result.
 
    ``` ./floater -a val1 val2       # add ```
+   
    ``` ./floater -s val1 val2       # sub ```
+   
    ``` ./floater -m val1 val2       # mul ```
+   
    ``` ./floater -d val1 val2       # div ```
+   
    ``` ./floater -gth val1 val2     # gth ```
+   
    ``` ./floater -lth val1 val2     # lth ```
+   
    ``` ./floater -eql val1 val2     # eql ```
+   
    ``` ./floater -geq val1 val2     # geq ```
+   
    ``` ./floater -leq val1 val2     # leq ```
