@@ -18,7 +18,7 @@ Pray to whatever it is you believe in for mercy, for bash will show none.
 
 Clone this repository
 
-   ``` git clone git@mindflayer.sytes.net:~/bash-float.git ```
+   ``` git clone https://github.com/m1ndflay3r/bash-float ```
 
 <h5>Step 3:</h5>
 
