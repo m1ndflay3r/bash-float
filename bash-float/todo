@@ -1,0 +1,4 @@
+- Make mul faster, as right now it's painfully slow in some instances (it brute forces everything lol) 
+
+- Code cleanup (hahahahahahahahahahahahah)
+
