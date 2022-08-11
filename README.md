@@ -1,7 +1,7 @@
 <h4>Introduction</h4>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This is my floating point arithmetic library for bash. While functional, it is slow as all bloody blue hell, especially on division. You won't feel that slowness too much with smaller numbers, but on larger numbers you'll see what I mean.
+This is my floating point arithmetic library for bash. While functional, it is slow as all bloody blue hell - especially on division. You won't feel that slowness too much with smaller numbers, but on larger numbers you'll see what I mean. It's also uncommented spaghetti noodle code, held together via a delicate balance of popsickle sticks, duct tape, and prayers (to Brian).
 
 Seriously - if you're at the point of needing this library, you should probably just switch to another programming language. Bash was never meant to be used this way, and I am a madwoman for having created this. 
 
