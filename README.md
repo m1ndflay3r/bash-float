@@ -28,7 +28,7 @@ That's it. The library is located in lib/libfloat within the root directory of t
 <h4>Usage</h4>
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This library presently contains the following functions:
+This library contains the following functions:
 
    ``` gth value1 value2   -   Greater than. Returns 0 if value is greater, 1 if it's less than, and 2 if it's equal to. ```
 
